@@ -2,6 +2,8 @@
 
 A static Next.js web application for tracking calories. Browse products, add them to your basket, and see real-time calorie calculations.
 
+🌐 **Live Demo**: https://theotheo46.github.io/kiro_nextjs/
+
 ## Features
 
 - 30 products across 6 categories (Fruits, Vegetables, Grains, Proteins, Dairy, Snacks)
